@@ -1,9 +1,9 @@
 /*
 Color Palette:
-background color:  #06283D
-font color:        #256D85
-secondary color:   #47B5FF
-tertiary color:    #DFF6FF
+background color:  #EEEBDD
+font color:        #810000
+secondary color:   #630000
+tertiary color:    #1B1717
 */
 /* CSS syntax notes:
  selector {property: value;}
@@ -30,8 +30,8 @@ header {
 }
 
 body { 
-    background-color: #06283D;
-    color: #256D85;
+    background-color: #EEEBDD;
+    color: #810000;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
@@ -64,7 +64,7 @@ p {
 
 .imageCard a {
     text-decoration: none;
-    color: #DFF6FF;
+    color: #1B1717;
 }
 
 
@@ -74,7 +74,7 @@ p {
 */
 
 .cardtext {
-    color: #47B5FF;
+    color: #630000;
     background: transparent;
     text-align: center;
     padding: 1rem 2rem;
